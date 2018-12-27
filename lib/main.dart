@@ -4,7 +4,7 @@ import 'package:ticket_collection/UI/ListView.dart';
 
 void main() => runApp(
   MaterialApp(
-    title: 'Returning Data',
-    home: MyListView(),
-  ),
+title: 'Returning Data',
+home: MyListView(),
+),
 );
